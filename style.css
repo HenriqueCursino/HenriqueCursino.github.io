@@ -1,0 +1,80 @@
+body {
+    background-color: #d9defa;
+    padding: 3%;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.sub-title {
+    font-family:monospace;
+    font-size: 20px;
+    
+}
+
+p {
+    font-family: fantasy, serif;
+}
+
+#ft-perfil {
+    float:left;
+    height: 280px;
+    padding: 10px;
+    background-color: rgb(138, 133, 133);
+}
+
+.unix {
+    font-size: 18px;
+}
+
+.git {
+    font-size: 22px;
+}
+
+.html {
+    font-size: 26px;
+}
+
+.Colaboração {
+    font-size: 18px;
+}
+
+.Empatia {
+    font-size: 22px;
+}
+
+.Resiliência {
+    font-size: 26px;
+}
+
+.button {
+    background-color:rgb(13, 10, 170);
+    color:rgb(0, 238, 255) ;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 100px;
+    font-weight:bold;
+}
+
+.image-container {
+    height: 300px;
+    position: relative;
+}
+
+.descrição {
+    position: absolute;
+    top:120px;
+    left:350px;
+}
+
+#sobre-mim {
+    position:absolute;
+    top:75px;
+    left:350px;
+}
+
+ul li:nth-child(odd) {
+    color: rgb(86, 10, 136);
+}
